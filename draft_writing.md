@@ -37,31 +37,31 @@ Eventhough, we managed to combine some characteristics of each cluster to define
 | Attribute | Value       | Interpretation | 
 |-----------|-------------|----------------|
 | B1uses    | Medium high | Not very connected to ÙSES, so biodiversity improvement of less importance |
-| B3ndvi    | High        | Could use more green area |
+| B3ndvi    | High        | Could use more green |
 | CA1temp   | High        | Needs improvements against heat stress |
 | QL2acg    | High        | Could use more connection to green areas |
 
-Conclusion....
+Type 1 consist of areas that are not very connected to ÙSES structures, so improvement of biodiversity will be of low priority. When planning urban development initiatives the focus should instead be on quality of life improvement and better climate adaptation. The connectivity to green areas should also be improved upon. This can be done by connecting to existing green areas or creating new areas, for example in the corridor along the river. After checking the areas of type 1 on a map, we additionally concluded that most type 1 areas are urban area. This lines up with our conclusions about this typology. 
 
 
 ###### Type 2
-| Attribute | Value       | Interpretation | 
-|-----------|-------------|----------------|
-| B1uses    | Medium high | |
-| B3ndvi    | High        | |
-| CA1temp   | High        | |
-| QL2acg    | High        | |
+| Attribute | Value         | Interpretation | 
+|-----------|---------------|----------------|
+| B1uses    | High          | Can use improvement of already existing ÙSES structures, with focus on biodiversity |
+| B3ndvi    | Medium low    | Quite good quality of green |
+| CA1temp   | Medium low    | Does not really need cooling |
+| QL2acg    | Extremely low | This value is unexpected, maybe caused by including water areas in our analysis |
 
 Conclusion....
 
 
 ###### Type 3
-| Attribute | Value         | Interpretation | 
-|-----------|---------------|----------------|
-| B1uses    | High          |  |
-| B3ndvi    | Medium low    | |
-| CA1temp   | Medium low    | |
-| QL2acg    | Extremely low | |
+| Attribute | Value        | Interpretation | 
+|-----------|--------------|----------------|
+| B1uses    | High         |  |
+| B3ndvi    | Low          | |
+| CA1temp   | Medium high  | |
+| QL2acg    | High         | |
 
 Conclusion....
 
@@ -70,9 +70,9 @@ Conclusion....
 | Attribute | Value       | Interpretation | 
 |-----------|-------------|----------------|
 | B1uses    | Medium high | |
-| B3ndvi    | High        | |
+| B3ndvi    | Medium low  | |
 | CA1temp   | High        | |
-| QL2acg    | High        | |
+| QL2acg    | Very low    | |
 
 Conclusion....
 
