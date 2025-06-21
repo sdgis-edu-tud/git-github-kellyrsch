@@ -33,7 +33,7 @@ All four clusters have just about the same level of accuracy, based on the mean 
 
 Eventhough, we managed to combine some characteristics of each cluster to define distinct typologies and come up with strategies of urban stream development for each. 
 
-###### Type 1 
+###### Type 1 (urban area)
 | Attribute | Value       | Interpretation | 
 |-----------|-------------|----------------|
 | B1uses    | Medium high | Not very connected to ÙSES, so biodiversity improvement of less importance |
@@ -44,7 +44,7 @@ Eventhough, we managed to combine some characteristics of each cluster to define
 Type 1 consist of areas that are not very connected to ÙSES structures, so improvement of biodiversity will be of low priority. When planning urban development initiatives the focus should instead be on quality of life improvement and better climate adaptation. The connectivity to green areas should also be improved upon. This can be done by connecting to existing green areas or creating new areas, for example in the corridor along the river. After checking the areas of type 1 on a map, we additionally concluded that most type 1 areas are urban area. This lines up with our conclusions about this typology. 
 
 
-###### Type 2
+###### Type 2 (finetune areas a)
 | Attribute | Value         | Interpretation | 
 |-----------|---------------|----------------|
 | B1uses    | High          | Can use improvement of already existing ÙSES structures, with focus on biodiversity |
@@ -55,7 +55,7 @@ Type 1 consist of areas that are not very connected to ÙSES structures, so impr
 Type 2 areas score low on b3ndvi, CA1temp, and QL2acg meaning that its green areas and connectivity is already of good quality. There is also a low need for cooling, since the land surface temperatures are not too high. The only attribute that could use improvement is B1uses, but even this does not need too much attention. Therefore we suggest improvement of already existing structures in type 2 areas, possibly with biodiversity oriented ecological interventions that specifically target ÙSES needs. In conclusion, type 2 does not need much drastic improvement and can instead benefit from finetuning and biodiversity measures. 
 
 
-###### Type 3
+###### Type 3 (finetune areas b)
 | Attribute | Value        | Interpretation | 
 |-----------|--------------|----------------|
 | B1uses    | High         | Good connectivity to ÙSES structures |
@@ -66,7 +66,7 @@ Type 2 areas score low on b3ndvi, CA1temp, and QL2acg meaning that its green are
 Both B3ndvi and CA1temp score low, which means that there is not much need for cooling which is in line with a good quality of green in the area (B3ndvi). Type 3 areas have a good connectivity to existing ÙSES structures, so they are a good candidate for biodiversity improvements. As for type 2, this can be done with small interventions. The high value for QL2acg is a bit unexpected, but can possibly be explained by the fact that we included water areas in our analysis, more on that in the general clustering conclusion. In a way, type 2 and type 3 do not differ that much from each other and we suspect that the differences are mostly caused by the inclusion of water areas. Type 2 and 3 will therefor have similar urban stream development priorities and strategies. 
 
 
-###### Type 4
+###### Type 4 (fields)
 | Attribute | Value       | Interpretation | 
 |-----------|-------------|----------------|
 | B1uses    | Medium high | Moderate connectivity to existing ÙSES structures |
@@ -79,5 +79,5 @@ Type 4 areas are characterised by a bad state of vegetation and a dire need for 
 
 ##### Conclusion 
 
-In general, .... 
-water inclusion messes up QL2acg, probs all zero values in type 2, all other low values in type 4, all highest values in type 3 and the rest in type 1
+With the use of K-means clustering we managed to define four different area types. However, two of them (types 2 and 3) are very similar in characteristics and improvement strategies. In our analysis for attribute QL2acg, we included water areas which all got a score of 0. We suspect that these values messed up the clustering process, specifically for attribute QL2acg. We think that all zero values got put in type 2, all other low values were put in type 4, all highest values got put in type 3 and all remaining values got put in type 1. This probably caused ambiguous results, with the consequence that type 2 and 3 are essentially the same. 
+Despite that, we can classify the types as urban areas that are in need of much improvement (type 1), areas in need of finetuning (types 2 and 3) and fields that should mostly be left as they are (type 4). 
