@@ -69,12 +69,12 @@ Both B3ndvi and CA1temp score low, which means that there is not much need for c
 ###### Type 4
 | Attribute | Value       | Interpretation | 
 |-----------|-------------|----------------|
-| B1uses    | Medium high | |
-| B3ndvi    | Medium low  | |
-| CA1temp   | High        | |
-| QL2acg    | Very low    | |
+| B1uses    | Medium high | Moderate connectivity to existing ÙSES structures |
+| B3ndvi    | Medium low  | Bad state of vegetation |
+| CA1temp   | High        | In high need of cooling |
+| QL2acg    | Very low    | Has lots of accessible green (good connectivity) |
 
-Conclusion....
+Type 4 areas are characterised by a bad state of vegetation and a dire need for cooling. There is a good amount of accessible green though and a moderate connectivity to existing ÙSES structures. When checking the location of these type 4 areas, we found out that is it mostly fields. This makes sense because the need for green in a field is defined as 0. Furthermore, heat island effects occur a lot above fields. Although the analysis suggests a need for improvement, we argue that the fields have a low priority for developments, since they often already have specified uses. However, we do suggest possibly planting small clusters of trees ([remízek](https://cs.wikipedia.org/wiki/Rem%C3%ADzek)). This could improve water retention, microclimates and biodiversity in the fields. 
 
 
 ##### Conclusion 
