@@ -34,41 +34,45 @@ All four clusters have just about the same level of accuracy, based on the mean 
 Eventhough, we managed to combine some characteristics of each cluster to define distinct typologies and come up with strategies of urban stream development for each. 
 
 ###### Type 1 
-Attribute | Value       | Interpretation | 
-B1uses    | Medium high | |
-B3ndvi    | High        | |
-CA1temp   | High        | |
-QL2acg    | High        | |
+| Attribute | Value       | Interpretation | 
+|-----------|-------------|----------------|
+| B1uses    | Medium high | Not very connected to ÙSES, so biodiversity improvement of less importance |
+| B3ndvi    | High        | Could use more green area |
+| CA1temp   | High        | Needs improvements against heat stress |
+| QL2acg    | High        | Could use more connection to green areas |
 
 Conclusion....
 
 
 ###### Type 2
-Attribute | Value       | Interpretation | 
-B1uses    | Medium high | |
-B3ndvi    | High        | |
-CA1temp   | High        | |
-QL2acg    | High        | |
+| Attribute | Value       | Interpretation | 
+|-----------|-------------|----------------|
+| B1uses    | Medium high | |
+| B3ndvi    | High        | |
+| CA1temp   | High        | |
+| QL2acg    | High        | |
 
 Conclusion....
 
 
 ###### Type 3
-Attribute | Value       | Interpretation | 
-B1uses    | Medium high | |
-B3ndvi    | High        | |
-CA1temp   | High        | |
-QL2acg    | High        | |
+| Attribute | Value         | Interpretation | 
+|-----------|---------------|----------------|
+| B1uses    | High          |  |
+| B3ndvi    | Medium low    | |
+| CA1temp   | Medium low    | |
+| QL2acg    | Extremely low | |
 
 Conclusion....
 
 
 ###### Type 4
-Attribute | Value       | Interpretation | 
-B1uses    | Medium high | |
-B3ndvi    | High        | |
-CA1temp   | High        | |
-QL2acg    | High        | |
+| Attribute | Value       | Interpretation | 
+|-----------|-------------|----------------|
+| B1uses    | Medium high | |
+| B3ndvi    | High        | |
+| CA1temp   | High        | |
+| QL2acg    | High        | |
 
 Conclusion....
 
