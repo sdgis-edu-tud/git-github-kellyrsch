@@ -58,12 +58,12 @@ Type 2 areas score low on b3ndvi, CA1temp, and QL2acg meaning that its green are
 ###### Type 3
 | Attribute | Value        | Interpretation | 
 |-----------|--------------|----------------|
-| B1uses    | High         |  |
-| B3ndvi    | Low          | |
-| CA1temp   | Medium high  | |
-| QL2acg    | High         | |
+| B1uses    | High         | Good connectivity to ÙSES structures |
+| B3ndvi    | Low          | Good quality of green |
+| CA1temp   | Medium high  | Not that much need for cooling |
+| QL2acg    | High         | High need for better green connectivity |
 
-Conclusion....
+Both B3ndvi and CA1temp score low, which means that there is not much need for cooling which is in line with a good quality of green in the area (B3ndvi). Type 3 areas have a good connectivity to existing ÙSES structures, so they are a good candidate for biodiversity improvements. As for type 2, this can be done with small interventions. The high value for QL2acg is a bit unexpected, but can possibly be explained by the fact that we included water areas in our analysis, more on that in the general clustering conclusion. In a way, type 2 and type 3 do not differ that much from each other and we suspect that the differences are mostly caused by the inclusion of water areas. Type 2 and 3 will therefor have similar urban stream development priorities and strategies. 
 
 
 ###### Type 4
@@ -77,3 +77,7 @@ Conclusion....
 Conclusion....
 
 
+##### Conclusion 
+
+In general, .... 
+water inclusion messes up QL2acg, probs all zero values in type 2, all other low values in type 4, all highest values in type 3 and the rest in type 1
