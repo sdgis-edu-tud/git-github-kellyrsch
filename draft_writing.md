@@ -52,7 +52,7 @@ Type 1 consist of areas that are not very connected to ÙSES structures, so impr
 | CA1temp   | Medium low    | Does not really need cooling |
 | QL2acg    | Extremely low | This value is unexpected, maybe caused by including water areas in our analysis |
 
-Conclusion....
+Type 2 areas score low on b3ndvi, CA1temp, and QL2acg meaning that its green areas and connectivity is already of good quality. There is also a low need for cooling, since the land surface temperatures are not too high. The only attribute that could use improvement is B1uses, but even this does not need too much attention. Therefore we suggest improvement of already existing structures in type 2 areas, possibly with biodiversity oriented ecological interventions that specifically target ÙSES needs. In conclusion, type 2 does not need much drastic improvement and can instead benefit from finetuning and biodiversity measures. 
 
 
 ###### Type 3
